@@ -1,7 +1,7 @@
 # Sales-Performance-Excel-Dashboard
 
 ## Project Initiative
-This is a project uses a public data set and a simulated business scenario to demonstrate skills in data analysis, reporting, and excel for my portfolio. 
+This is a project uses a public data set and a simulated business scenario to demonstrate skills in data analysis, reporting, and excel for portfolio purposes.
 
 ## Business Request
 
