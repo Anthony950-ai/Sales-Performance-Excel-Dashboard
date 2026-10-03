@@ -1,5 +1,8 @@
 # Sales-Performance-Excel-Dashboard
 
+## Project Initiative
+This is a project uses a public data set and a simulated business scenario to demonstrate skills in data analysis, reporting, and excel for my portfolio. 
+
 ## Business Request
 
 Company stakeholders have requested a report analyzing the sales performance of the business over the past year. The company is considering performance-based expansion into departments with high sales output while providing additional corporate support to underperforming areas.
